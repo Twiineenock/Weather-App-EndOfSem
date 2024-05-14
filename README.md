@@ -17,6 +17,6 @@ To run this project, install:
   - API Link: "https://openweathermap.org/api"
 
 ## Contributor
-* [Rishi Raj](https://github.com/Twiineenock) 
+* [Twiine Enock](https://github.com/Twiineenock) 
 
 
